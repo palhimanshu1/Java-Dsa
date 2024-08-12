@@ -1,5 +1,9 @@
 //hollow daimond
-
+//                 *
+//         *               *
+// *                               *
+//         *               *
+//                 *
 import java.util.*;
 
 public class pattern10 {
