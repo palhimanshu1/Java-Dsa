@@ -1,3 +1,11 @@
+*       *       *               *       *       *
+*       *                               *       *
+*                                               *
+*       *                               *       *
+*       *       *               *       *       *
+
+// remove pattern for execute program
+
 
 import java.util.*;
 public class pattern6 {
