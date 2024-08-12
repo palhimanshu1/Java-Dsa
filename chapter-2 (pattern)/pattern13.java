@@ -1,10 +1,12 @@
-// 5
-// 1
+// 5                                          --> 0th row
+// 1                                          --> 1st row
 // 1       1
 // 1       2       1
 // 1       3       3       1
-// 1       4       6       4       1
+// 1       4       6       4       1          --> nth row
 
+// we are using some mathematical formula of permutaion and combination NcR+1 = NcR *(N-R)/(R=1)
+// Using the formula we are able to find value of next column usin previous column and aur firt column value is 1
 
 
 import java.util.*;
