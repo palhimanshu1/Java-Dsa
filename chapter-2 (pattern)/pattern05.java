@@ -1,3 +1,10 @@
+                *
+        *       *       *
+*       *       *       *       *
+        *       *       *
+                *
+// Remove the pattern for running the program
+
 import java.util.*;
 public class pattern5 {
     public static void main(String[] args) {
