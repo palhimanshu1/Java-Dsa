@@ -1,8 +1,8 @@
-*       *       *       *       *
-        *       *       *       *
-                *       *       *
-                        *       *
-                                *
+// *       *       *       *       *
+//         *       *       *       *
+//                 *       *       *
+//                         *       *
+//                                 *
 
 import java.util.*;
 public class patter4 {
