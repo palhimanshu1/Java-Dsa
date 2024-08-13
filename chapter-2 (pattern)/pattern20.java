@@ -1,3 +1,14 @@
+// *                                               *
+// *                                               *
+// *                                               *
+// *                       *                       *
+// *               *               *               *
+// *       *                               *       *
+// *                                               *
+
+
+// similarly we can print M. For M we select upper half row for printing daigonally stars
+
 import java.util.*;
 public class pattern20 {
     public static void main(String[] args) {
