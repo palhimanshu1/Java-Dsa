@@ -1,5 +1,13 @@
+//                 1
+//         2       3       2
+// 3       4       5       4       3
+//         2       3       2
+//                 1
+
+
+
 import java.util.*;
-;
+
 public class pattern15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
