@@ -1,5 +1,5 @@
 import java.util.*;
-public class Introduction_1{
+public class Introduction{
 
     public static int fact(int x){
         int rv = 1;
