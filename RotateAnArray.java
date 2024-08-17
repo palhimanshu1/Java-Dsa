@@ -1,8 +1,5 @@
 import java.util.*;
 
-
-
-
 public class RotateAnArray {
 
     public static void reverse(int[] arr,int i,int j){
