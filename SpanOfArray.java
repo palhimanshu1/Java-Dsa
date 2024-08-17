@@ -1,5 +1,5 @@
 import java.util.*;
- public class spanOfArray {
+ public class SpanOfArray {
  
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
