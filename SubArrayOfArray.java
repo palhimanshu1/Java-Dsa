@@ -18,6 +18,7 @@ public class SubArrayOfArray {
             }
         }
         sc.close();
+        
     }
     
 }
