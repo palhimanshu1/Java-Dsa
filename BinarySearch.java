@@ -19,6 +19,7 @@ public class BinarySearch {
                 low = mid+1;
             }else{
                 System.out.println(arr[mid]+": Found at index "+mid);
+                return;
             }
         }
         System.out.println(-1);
