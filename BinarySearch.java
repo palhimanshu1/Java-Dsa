@@ -4,9 +4,10 @@ public class BinarySearch {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
+        sc.close();
         System.out.println("enter the data value");
         int data = sc.nextInt();
         int low=0;
@@ -22,8 +23,11 @@ public class BinarySearch {
                 return;
             }
         }
+        
         System.out.println(-1);
-        sc.close();
+
+        
+        
     }
     
 }
