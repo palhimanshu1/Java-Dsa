@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class incdec {
+public class PrintIncreasingDecreasing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
