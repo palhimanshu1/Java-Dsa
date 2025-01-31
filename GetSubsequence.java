@@ -6,6 +6,7 @@ public class GetSubsequence {
         String str = sc.nextLine();
         ArrayList<String> res = gss(str); // res ==result
         System.out.println(res);
+        sc.close();
 
     }
 
