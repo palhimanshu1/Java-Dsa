@@ -9,7 +9,7 @@ public class KeyPadCombination {
         sc.close();
     }
 
-    static String[] codes = { ".;", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwz", "yz" };
+    static String[] codes = { ".;", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tu", "vwx", "yz" };
 
     public static ArrayList<String> getKPC(String str) {
 
